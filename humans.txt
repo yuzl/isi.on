@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name> Freddy
 
 # TECHNOLOGY COLOPHON
 
